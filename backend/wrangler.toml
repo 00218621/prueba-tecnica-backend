@@ -1,6 +1,6 @@
 name = "products-api"
 main = "src/index.ts"
-compatibility_date = "2024-12-01"
+compatibility_date = "2026-01-16"
 
 [vars]
-DATABASE_URL = "POSTGRES_URL_DE_NEON"
+DATABASE_URL = ""

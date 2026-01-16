@@ -1,6 +1,0 @@
-name = "products-api"
-main = "src/index.ts"
-compatibility_date = "2026-01-16"
-
-[vars]
-DATABASE_URL = ""
